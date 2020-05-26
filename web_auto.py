@@ -30,7 +30,7 @@ for c1 in bruh:
 	p = p+1
 #print(spaget,k1,pizza, sep="")
 	myman = spaget + k1 + pizza
-    sleep(3)                                                                                                                       #waits for 3 secs for tab init
+        sleep(3)                                                                                                                       #waits for 3 secs for tab init
 	webbrowser.open_new_tab(myman)
 	
 
@@ -39,4 +39,4 @@ for c1 in bruh:
 
 
 print ("İşlem tamadır! İyi Günler. aliensoft enterprises")
-#webbrowser.open('https://alienozi.c1.biz')
+webbrowser.open('https://alienozi.c1.biz')
